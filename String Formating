@@ -1,0 +1,14 @@
+
+
+# how to use formating in string 
+
+#we use multiple line formationg in string
+
+Name = "Sagar"
+age = 25
+print(f"hello {Name}  your age is {age}") lestest
+#print("hello " + Name + " your age is " +str(age) )
+
+
+#print("hello {} your age is {} ".format(name, age)) python3 
+
