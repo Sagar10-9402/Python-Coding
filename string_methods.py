@@ -20,3 +20,4 @@ print(name.title())
 #5 count method 
 
 print(name.count("a"))
+
